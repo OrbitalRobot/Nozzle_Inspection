@@ -5,7 +5,7 @@ In this project are the Python programs that run the nozzle inspection machine d
 
 
 ## **System Description**
-A nozzle will be placed (aft-end-down) over the top of the vertical axis and sit on the 4 white rest pads at the ends of the four legs.  Then this machine will place the eddy current array probe (the black and orange padded object held by the end-of-arm-tooling) against the inside of the nozzle, and rotate the probe around the circumference of the nozzle to inspect it.  The inspection will be performed at various heights on the nozzle.  The nozzle is not shown for IP/ITAR reasons.
+A nozzle will be placed (aft-end-down) over the top of the vertical axis and sit on the 4 white rest pads at the ends of the four legs.  Then this machine will place the eddy current array probe (the black and orange padded object held by the end-of-arm-tooling) against the inside of the nozzle, and rotate the probe around the circumference of the nozzle to inspect it.  The inspection will be performed at various heights on the nozzle.  The nozzle is not shown for IP/ITAR reasons.  Similarly, only 2 of the several scanning locations are shown in the included programs.
 
 ![image](https://user-images.githubusercontent.com/121198760/209497766-6d0bfe8c-3236-4e58-9490-4b7d51a4118d.png)
 
